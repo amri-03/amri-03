@@ -1,45 +1,101 @@
-# Hi there, I'm [Aman Kumar]! 👋
+# Hi, I'm Aman Kumar 👋
 
-![Banner Image](your_banner_image_url_here)
+B.Tech CSE student at Parul University, exploring web and software development while building practical projects and strengthening my fundamentals.
 
-## About Me 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+%26+Software+Development;Java+%7C+Python+%7C+JavaScript;Building+%7C+Learning+%7C+Experimenting;Exploring+Cybersecurity&width=500&height=30&pause=1200&size=18)](https://git.io/typing-svg)
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## About Me
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🎓 B.Tech Computer Science & Engineering student
+- 💻 Currently focused on web and software development
+- 🌱 Strengthening Java, DSA and software development fundamentals
+- 🔐 Exploring cybersecurity as a long-term direction
+- 🛠️ Interested in building practical projects and experimenting with new technologies
 
-## My Skills 🧠
+## Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Languages**
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Featured Projects 💻
+**Web**
 
-### [Project 1 Title](project_1_link)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+**Tools & Platforms**
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### [Project 2 Title](project_2_link)
+## GitHub Activity
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=amri-03&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amri-03&layout=donut&hide_border=true" height="165" />
+</p>
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+## Featured Projects
 
-## Get in Touch 📬
+### 🤖 Cyris AI Assistant
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+An AI-assisted personal assistant project focused on helping users organize their direction, priorities and tasks through intelligent workflows.
 
+**Tech:** Python
 
+[View Repository](https://github.com/amri-03/cyris-ai-assistant)
+
+### 💰 Flipkart Price Tracker
+
+A full-stack price tracking application that monitors product prices and provides a self-hosted tracking workflow.
+
+**Tech:** TypeScript, React, Node.js, Express, Prisma, PostgreSQL
+
+[View Repository](https://github.com/amri-03/flipkart-price-tracker)
+
+### 🛒 SaaS Price Tracker
+
+A Python-based price monitoring project built to track product prices and provide automated notifications.
+
+**Tech:** Python, Flask, SQLite
+
+[View Repository](https://github.com/amri-03/saas-price-tracker)
+
+### 🚀 Vibe2Ship — Last Minute Lifesaver
+
+A hackathon project built during Vibe2Ship, focused on creating a practical solution under a limited development timeline.
+
+**Tech:** TypeScript
+
+[View Repository](https://github.com/amri-03/vibe-2-ship-last-minute-lifesaver)
+
+## Web Development Coursework
+
+Completed the **Web Design for Everybody Specialization** from the University of Michigan through Coursera, covering:
+
+HTML5 · CSS3 · JavaScript · Responsive Web Design
+
+## Contribution Activity
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+    <img alt="GitHub contribution snake" src="github-snake.svg">
+  </picture>
+</p>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-r-kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amri-03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amankumx@gmail.com)
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amri-03&style=flat-square" alt="Profile views" />
+</p>
