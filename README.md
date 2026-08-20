@@ -72,7 +72,7 @@ A hackathon project built during Vibe2Ship, focused on creating a practical solu
 
 [View Repository](https://github.com/amri-03/vibe-2-ship-last-minute-lifesaver)
 
-## Web Development Coursework
+## Web Development Certification
 
 Completed the **Web Design for Everybody Specialization** from the University of Michigan through Coursera, covering:
 
@@ -82,9 +82,9 @@ HTML5 · CSS3 · JavaScript · Responsive Web Design
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-    <img alt="GitHub contribution snake" src="github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amri-03/amri-03/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amri-03/amri-03/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/amri-03/amri-03/output/github-snake.svg">
   </picture>
 </p>
 
