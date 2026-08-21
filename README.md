@@ -56,14 +56,6 @@ A full-stack price tracking application that monitors product prices and provide
 
 [View Repository](https://github.com/amri-03/flipkart-price-tracker)
 
-### 🛒 SaaS Price Tracker
-
-A Python-based price monitoring project built to track product prices and provide automated notifications.
-
-**Tech:** Python, Flask, SQLite
-
-[View Repository](https://github.com/amri-03/saas-price-tracker)
-
 ### 🚀 Vibe2Ship — Last Minute Lifesaver
 
 A hackathon project built during Vibe2Ship, focused on creating a practical solution under a limited development timeline.
